@@ -1,12 +1,11 @@
 <div>
+    <h1>Hi!</h1>
     <div>
-        <h1>Hi!</h1>
+        <img src="assets/typing.gif" align="right"/>
+        <h3>About me</h3>
+        <p>I'm Jaka Hrvatin, a 19 year old Computer Science student from Slovenia. I like coding with various languages and exploring different technologies. Passionate about diverse projects, I'm on a journey to discover my niche in the tech world. While I've made smaller solo projects, I eager to contribute to larger ones. Let's collaborate and create something amazing together! </p>
     </div>
-    <img src="assets/typing.gif" />
 </div>
-<div>
-    <h2>About me</h2>
-    <p>I'm Jaka Hrvatin, a 19 year old Computer Science student from Slovenia. I like coding with various languages and exploring different technologies. Passionate about diverse projects, I'm on a journey to discover my niche in the tech world. While I've made smaller solo projects, I eager to contribute to larger ones. Let's collaborate and create something amazing together! </p>
 
 ### Tools & Technologies I've used:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
