@@ -1,5 +1,5 @@
 <div>
-    <img src="https://tenor.com/view/lain-serial-experiments-lain-type-typing-gif-22807023" />
+    <img src="assets/typing.gif" />
 </div>
 ## Hi!
 ### About me:
