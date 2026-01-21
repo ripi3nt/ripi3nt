@@ -3,7 +3,7 @@
     <h3>About me:</h3>
     <div>
         <img src="assets/typing.gif" align="right" width=230 height=170/>
-        <p>I'm Jaka Hrvatin, a 20 year old Computer Science student from Slovenia. I like coding and exploring different technologies. I have only made smaller projects but I am eager to work with a team on a larger project. </p>
+        <p>I'm Jaka Hrvatin, a 21 year old Computer Science student from Slovenia. I like coding and exploring different technologies. I have only made smaller projects but I am eager to work with a team on a larger project. </p>
     </div>
 </div>
 
@@ -25,8 +25,13 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### Free time 
 
 
 
